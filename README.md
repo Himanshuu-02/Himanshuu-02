@@ -23,7 +23,10 @@ This is Himanshu.
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Himanshuu-02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
 
-https://www.codewars.com/users/Himanshuu-02/badges/large
+### 🥋 Codewars Profile
+
+![Codewars Badge](https://www.codewars.com/users/Himanshuu-02/badges/large)
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
