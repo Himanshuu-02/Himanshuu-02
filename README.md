@@ -25,7 +25,7 @@ This is Himanshu.
 
 ### 🥋 Codewars Profile
 
-![Codewars Badge](https://www.codewars.com/users/Himanshuu-02/badges/large)
+[![Codewars Badge](https://www.codewars.com/users/Himanshuu-02/badges/large)](https://www.codewars.com/users/Himanshuu-02)
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
