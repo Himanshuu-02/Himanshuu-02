@@ -3,7 +3,9 @@ This is Himanshu.
 
 ⚡ Aspiring Software Developer
 
-⚡ BTech 2026 Batch
+🌟 Front-End Developer | 🎓 B.Tech CSE Student  
+
+💻 Passionate about crafting clean and responsive UI/UX 
 
 
 
@@ -20,7 +22,10 @@ This is Himanshu.
 
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Himanshuu-02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+## 📊 GitHub Stats
+
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshuu-02&show_icons=true&theme=radical)
+
 
 
 ### 🥋 Codewars Profile
