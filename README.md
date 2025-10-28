@@ -58,6 +58,6 @@ This is Himanshu.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
   <img src="https://www.svgrepo.com/show/303503/shopify-logo.svg" alt="Shopify" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/Himanshuu-02/profile-assets/main/hydrogen.png" alt="Hydrogen" width="45" height="45"/>
+  <img src="https://cdn.shopify.com/app-store/listing_images/da22abc49b60bbaacbf44882dfe71263/icon/COOjyKrH4_wCEAE=.png" alt="Hydrogen" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="45" height="45"/>
   <img src="https://www.cursor.so/favicon.ico" alt="Cursor" width="45" height="45"/>
