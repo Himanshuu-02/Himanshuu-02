@@ -21,7 +21,7 @@ This is Himanshu.
 
 
 
-[![LeetCode user iam-himanshu](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgarimatiwari1803&logo=leetcode&logoColor=yellow)](https://leetcode.com/iam-himanshu/)
+[![LeetCode user iam-himanshu](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fiam-himanshu&logo=leetcode&logoColor=yellow)](https://leetcode.com/iam-himanshu/)
 
 ![](https://leetcard.jacoblin.cool/iam-himanshu?ext=heatmap)
 
@@ -29,10 +29,10 @@ This is Himanshu.
 <div >
   ## 📊 GitHub Stats
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshuu-02&show_icons=true&theme=radical)
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshuu-02&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 
 ### 📌 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuu-02&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuu-02&layout=compact&theme=radical&count_private=true&cache_seconds=1800)
 
 ---
 
