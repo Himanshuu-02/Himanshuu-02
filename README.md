@@ -29,10 +29,12 @@ This is Himanshu.
 <div >
   ## 📊 GitHub Stats
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshuu-02&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshuu-02&show_icons=true&theme=radical)
+
 
 ### 📌 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuu-02&layout=compact&theme=radical&count_private=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuu-02&layout=compact)
 
 ---
 
