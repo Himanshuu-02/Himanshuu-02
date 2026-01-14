@@ -26,21 +26,12 @@ This is Himanshu.
 ![](https://leetcard.jacoblin.cool/iam-himanshu?ext=heatmap)
 
 
-<div >
   ## 📊 GitHub Stats
 
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshuu-02&show_icons=true&theme=radical)
 
 
-### 📌 Most Used Languages  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuu-02&layout=compact)
-
----
-
-</div>
-
-### 🥋 Codewars Profile
+## 🥋 Codewars Profile
 
 [![Codewars Badge](https://www.codewars.com/users/Himanshuu-02/badges/large)](https://www.codewars.com/users/Himanshuu-02)
 
